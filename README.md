@@ -2,7 +2,8 @@
 The repository contains Sensor, Microcontroller &amp; Embedded System Assignments.
 <hr>
 ## Assignment 1
-Parse JSON weather data to calculate current temperature and humidity of Bhopal's using API from www.openweathermap.net. The coordinate of Bhopal's is 23.2599°N, 77.4126°E.\
+Parse JSON weather data to calculate current temperature and humidity of Bhopal's using API from www.openweathermap.net. The coordinate of Bhopal's is 23.2599°N, 77.4126°E.
+
 **<a href="https://colab.research.google.com/drive/1sVjgRN3JvJK2p4f3ENl6Xwme81EfGOj5?usp=sharing">Solution Assignment 1</a>**
 <hr>
 ## Assignment 2
